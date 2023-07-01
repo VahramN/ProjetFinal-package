@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+ProjetFinal.egg-info/PKG-INFO
+ProjetFinal.egg-info/SOURCES.txt
+ProjetFinal.egg-info/dependency_links.txt
+ProjetFinal.egg-info/requires.txt
+ProjetFinal.egg-info/top_level.txt

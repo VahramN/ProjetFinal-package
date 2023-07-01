@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ProjetFinal
+Version: 0.1
+Summary: Project calculates stall speed, takeoff speed, optimal speed, takeoff distance and landing distance.
+Home-page: UNKNOWN
+Author: Vahram Nersisyan
+License: UNKNOWN
+Keywords: stall speed,takeoff speed,optimal speed,takeoff distance,landing distance.
+Platform: UNKNOWN
+Requires-Python: >=3.10
+License-File: LICENSE.md
+
+The program reads the csv file with wing profil data. The user select the profil. The user enters weight, wing surface, wingspan, jet thrust and altitude.
+
